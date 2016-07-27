@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C01A3BC1D4829FA0068D657 /* taca.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C01A3BB1D4829FA0068D657 /* taca.png */; };
 		0C93912D1D41B43400F1561B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C93912C1D41B43400F1561B /* AppDelegate.swift */; };
 		0C93912F1D41B43400F1561B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C93912E1D41B43400F1561B /* ViewController.swift */; };
 		0C9391321D41B43400F1561B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C9391301D41B43400F1561B /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C01A3BB1D4829FA0068D657 /* taca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taca.png; path = ../../../../Desktop/taca.png; sourceTree = "<group>"; };
 		0C9391291D41B43400F1561B /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C93912C1D41B43400F1561B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0C93912E1D41B43400F1561B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				0C93912C1D41B43400F1561B /* AppDelegate.swift */,
+				0C01A3BB1D4829FA0068D657 /* taca.png */,
 				0C93912E1D41B43400F1561B /* ViewController.swift */,
 				0C9391301D41B43400F1561B /* Main.storyboard */,
 				0C9391331D41B43400F1561B /* Assets.xcassets */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C01A3BC1D4829FA0068D657 /* taca.png in Resources */,
 				0C9391371D41B43400F1561B /* LaunchScreen.storyboard in Resources */,
 				0C9391341D41B43400F1561B /* Assets.xcassets in Resources */,
 				0C9391321D41B43400F1561B /* Main.storyboard in Resources */,
@@ -286,6 +290,7 @@
 				0C93913D1D41B43400F1561B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
